@@ -73,6 +73,5 @@ Este proyecto es un sistema completo de gestión para una clínica médica, desa
 
 ### Diagrama ERD 
 
-image.png
-
+ ![image alt](https://github.com/Erick-Telle/Proyecto-POO/blob/f0ddbc23ba1c0f5bddcdd659e627de67a25968cf/image.png)
 
