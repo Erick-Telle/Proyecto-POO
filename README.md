@@ -19,8 +19,7 @@ Este proyecto es un sistema completo de gestión para una clínica médica, desa
 ## Instalación y Configuración
 1. **Clona el Repositorio**:
    ```
-   git clone https://github.com/tu-usuario/clinica-sistema.git
-   cd clinica-sistema
+   git clone https://github.com/Erick-Telle/Proyecto-POO.git
    ```
 
 2. **Requisitos**:
