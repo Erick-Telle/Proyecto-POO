@@ -1,6 +1,6 @@
 
 ## Descripción
-Este proyecto es un sistema completo de gestión para una clínica médica, desarrollado con programación orientada a objetos. Permite manejar pacientes, citas, historias clínicas, facturación y más, con un enfoque en un expediente digital seguro y accesible. Incluye funcionalidades innovadoras como integración con IA para diagnósticos, blockchain para inmutabilidad de registros y soporte para telemedicina. El sistema está construido con IntelliJ IDEA y OpenXava para una UI web automática, respaldado por Spring Boot y JPA.
+Este proyecto es un sistema completo de gestión para una clínica médica, desarrollado con programación orientada a objetos. Permite manejar pacientes, citas, historias clínicas, facturación y más, con un enfoque en un expediente digital seguro y accesible. El sistema está construido con IntelliJ IDEA y OpenXava para una UI web automática, respaldado por Spring Boot y JPA.
 
 ## Características Principales
 - **Gestión de Pacientes**: Registro completo con datos personales, seguros médicos y expediente digital.
