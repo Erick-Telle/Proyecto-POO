@@ -8,12 +8,6 @@ Este proyecto es un sistema completo de gestión para una clínica médica, desa
 - **Expediente Digital**: Contenedor centralizado de historias clínicas, exámenes, prescripciones y alergias, con generación automática de PDFs y encriptación.
 - **Facturación y Pagos**: Cálculo de totales con descuentos por seguros, generación de facturas en PDF.
 - **Auditoría y Seguridad**: Logs de accesos, autenticación con roles (admin, doctor, recepcionista, paciente) y MFA opcional.
-- **Innovaciones**:
-  - IA para sugerencias de diagnósticos.
-  - Blockchain para hashes inmutables de registros médicos.
-  - Telemedicina con enlaces de videollamadas.
-  - IoT para monitoreo remoto de signos vitales.
-  - Análisis de datos con ML para predicciones de readmisiones.
 - **Reportes**: Dashboards y PDFs para citas, facturas y expedientes.
 
 ## Tecnologías Utilizadas
@@ -21,8 +15,6 @@ Este proyecto es un sistema completo de gestión para una clínica médica, desa
 - **Framework**: OpenXava (para UI CRUD automática), Spring Boot (backend).
 - **Persistencia**: JPA/Hibernate con base de datos H2 (desarrollo) o PostgreSQL/MySQL (producción).
 - **Herramientas**: IntelliJ IDEA, Maven, Spring Security (autenticación), iText (PDFs), JasperReports (reportes).
-- **Innovadoras**: TensorFlow/scikit-learn (ML), Web3j (blockchain), WebRTC (telemedicina), MQTT (IoT).
-- **Otros**: JUnit/Mockito (pruebas), Swagger (documentación API), Docker (despliegue).
 
 ## Instalación y Configuración
 1. **Clona el Repositorio**:
@@ -80,7 +72,7 @@ Este proyecto es un sistema completo de gestión para una clínica médica, desa
 5. Facturación → Generación de PDFs.
 6. Auditoría Continua → Logs en AccesoExpediente.
 
-### Diagrama ERD (Vista Previa en Texto)
+### Diagrama ERD 
 
 
 
